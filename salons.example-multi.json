@@ -1,0 +1,23 @@
+[
+  {
+    "id": "4542",
+    "name": "Great Clips Salon 4542 — Rutherford Marketplace, Vaughan",
+    "place_id": "ChIJ2f33-LcrK4gRO2Ttmoda27A",
+    "email_to": "owner@email.com, area-manager@email.com",
+    "target_rating": 4.9
+  },
+  {
+    "id": "9199",
+    "name": "Great Clips Salon 9199 — Richmond Hill",
+    "place_id": "ChIJ_YOUR_SECOND_SALON_PLACE_ID",
+    "email_to": "owner@email.com, salon9199manager@email.com",
+    "target_rating": 4.9
+  },
+  {
+    "id": "3987",
+    "name": "Great Clips Salon 3987 — Maple",
+    "place_id": "ChIJ_YOUR_THIRD_SALON_PLACE_ID",
+    "email_to": "owner@email.com",
+    "target_rating": 4.8
+  }
+]
